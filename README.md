@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey, I'm [YOUR NAME]</h1>
+<h1 align="center">👋 Hey, I'm [Gaurish Malhotra]</h1>
 
 <p align="center">
   🤖 <b>Machine Learning Developer</b> &nbsp;·&nbsp; 🌐 <b>Full-Stack Engineer</b> &nbsp;·&nbsp; 🔌 <b>IoT & Embedded Tinkerer</b>
